@@ -1,0 +1,4 @@
+Flask==3.0.3
+transformers==4.57.1
+torch
+tensorflow
